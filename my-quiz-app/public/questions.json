@@ -1,0 +1,13 @@
+{
+    "1": {
+      "question": "Care este capitala Franței?",
+      "options": ["Paris", "Londra", "Berlin"],
+      "answer": "Paris"
+    },
+    "2": {
+      "question": "Cine a descoperit America?",
+      "options": ["Cristofor Columb", "Vasco da Gama", "Marco Polo"],
+      "answer": "Cristofor Columb"
+    }
+  }
+  
